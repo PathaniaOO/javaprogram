@@ -14,6 +14,7 @@ public class AboutDocker {
         System.out.println("- The Docker Engine runs on the host and manages images, containers, networks, and storage.");
         System.out.println("- Developers typically write a Dockerfile to define an image and use `docker build`, `docker run`, etc.");
         System.out.println("- Docker simplifies deployment by ensuring applications run the same in different environments.");
+        System.out.println("- Docker Compose allows defining and running multi-container applications using a single YAML configuration file.");
         System.out.println();
         System.out.println("This Java program merely prints general information about Docker and does not invoke the Docker CLI.");
     }
